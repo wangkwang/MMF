@@ -1,0 +1,501 @@
+slide_id,case_id,label
+patient_000_node_0,patient_000,Solid Tissue Normal
+patient_000_node_1,patient_000,Solid Tissue Normal
+patient_000_node_2,patient_000,Solid Tissue Normal
+patient_000_node_3,patient_000,Solid Tissue Normal
+patient_000_node_4,patient_000,Solid Tissue Normal
+patient_001_node_0,patient_001,Solid Tissue Normal
+patient_001_node_1,patient_001,Solid Tissue Normal
+patient_001_node_2,patient_001,Solid Tissue Normal
+patient_001_node_3,patient_001,Solid Tissue Normal
+patient_001_node_4,patient_001,Solid Tissue Normal
+patient_002_node_0,patient_002,Solid Tissue Normal
+patient_002_node_1,patient_002,Solid Tissue Normal
+patient_002_node_2,patient_002,Solid Tissue Normal
+patient_002_node_3,patient_002,Solid Tissue Normal
+patient_002_node_4,patient_002,Solid Tissue Normal
+patient_003_node_0,patient_003,Solid Tissue Normal
+patient_003_node_1,patient_003,Solid Tissue Normal
+patient_003_node_2,patient_003,Solid Tissue Normal
+patient_003_node_3,patient_003,Solid Tissue Normal
+patient_003_node_4,patient_003,Solid Tissue Normal
+patient_004_node_0,patient_004,Solid Tissue Normal
+patient_004_node_1,patient_004,Solid Tissue Normal
+patient_004_node_2,patient_004,Solid Tissue Normal
+patient_004_node_3,patient_004,Solid Tissue Normal
+patient_004_node_4,patient_004,Primary Tumor
+patient_005_node_0,patient_005,Solid Tissue Normal
+patient_005_node_1,patient_005,Solid Tissue Normal
+patient_005_node_2,patient_005,Solid Tissue Normal
+patient_005_node_3,patient_005,Primary Tumor
+patient_005_node_4,patient_005,Primary Tumor
+patient_006_node_0,patient_006,Solid Tissue Normal
+patient_006_node_1,patient_006,Solid Tissue Normal
+patient_006_node_2,patient_006,Primary Tumor
+patient_006_node_3,patient_006,Solid Tissue Normal
+patient_006_node_4,patient_006,Primary Tumor
+patient_007_node_0,patient_007,Solid Tissue Normal
+patient_007_node_1,patient_007,Solid Tissue Normal
+patient_007_node_2,patient_007,Solid Tissue Normal
+patient_007_node_3,patient_007,Solid Tissue Normal
+patient_007_node_4,patient_007,Primary Tumor
+patient_008_node_0,patient_008,Primary Tumor
+patient_008_node_1,patient_008,Solid Tissue Normal
+patient_008_node_2,patient_008,Solid Tissue Normal
+patient_008_node_3,patient_008,Solid Tissue Normal
+patient_008_node_4,patient_008,Solid Tissue Normal
+patient_009_node_0,patient_009,Primary Tumor
+patient_009_node_1,patient_009,Primary Tumor
+patient_009_node_2,patient_009,Solid Tissue Normal
+patient_009_node_3,patient_009,Solid Tissue Normal
+patient_009_node_4,patient_009,Solid Tissue Normal
+patient_010_node_0,patient_010,Primary Tumor
+patient_010_node_1,patient_010,Solid Tissue Normal
+patient_010_node_2,patient_010,Solid Tissue Normal
+patient_010_node_3,patient_010,Solid Tissue Normal
+patient_010_node_4,patient_010,Primary Tumor
+patient_011_node_0,patient_011,Primary Tumor
+patient_011_node_1,patient_011,Solid Tissue Normal
+patient_011_node_2,patient_011,Solid Tissue Normal
+patient_011_node_3,patient_011,Solid Tissue Normal
+patient_011_node_4,patient_011,Solid Tissue Normal
+patient_012_node_0,patient_012,Primary Tumor
+patient_012_node_1,patient_012,Solid Tissue Normal
+patient_012_node_2,patient_012,Solid Tissue Normal
+patient_012_node_3,patient_012,Solid Tissue Normal
+patient_012_node_4,patient_012,Solid Tissue Normal
+patient_013_node_0,patient_013,Solid Tissue Normal
+patient_013_node_1,patient_013,Solid Tissue Normal
+patient_013_node_2,patient_013,Primary Tumor
+patient_013_node_3,patient_013,Primary Tumor
+patient_013_node_4,patient_013,Primary Tumor
+patient_014_node_0,patient_014,Solid Tissue Normal
+patient_014_node_1,patient_014,Solid Tissue Normal
+patient_014_node_2,patient_014,Primary Tumor
+patient_014_node_3,patient_014,Primary Tumor
+patient_014_node_4,patient_014,Primary Tumor
+patient_015_node_0,patient_015,Solid Tissue Normal
+patient_015_node_1,patient_015,Primary Tumor
+patient_015_node_2,patient_015,Primary Tumor
+patient_015_node_3,patient_015,Solid Tissue Normal
+patient_015_node_4,patient_015,Primary Tumor
+patient_016_node_0,patient_016,Primary Tumor
+patient_016_node_1,patient_016,Primary Tumor
+patient_016_node_2,patient_016,Solid Tissue Normal
+patient_016_node_3,patient_016,Solid Tissue Normal
+patient_016_node_4,patient_016,Solid Tissue Normal
+patient_017_node_0,patient_017,Solid Tissue Normal
+patient_017_node_1,patient_017,Primary Tumor
+patient_017_node_2,patient_017,Primary Tumor
+patient_017_node_3,patient_017,Primary Tumor
+patient_017_node_4,patient_017,Primary Tumor
+patient_018_node_0,patient_018,Solid Tissue Normal
+patient_018_node_1,patient_018,Primary Tumor
+patient_018_node_2,patient_018,Primary Tumor
+patient_018_node_3,patient_018,Primary Tumor
+patient_018_node_4,patient_018,Primary Tumor
+patient_019_node_0,patient_019,Primary Tumor
+patient_019_node_1,patient_019,Primary Tumor
+patient_019_node_2,patient_019,Primary Tumor
+patient_019_node_3,patient_019,Primary Tumor
+patient_019_node_4,patient_019,Solid Tissue Normal
+patient_020_node_0,patient_020,Solid Tissue Normal
+patient_020_node_1,patient_020,Primary Tumor
+patient_020_node_2,patient_020,Primary Tumor
+patient_020_node_3,patient_020,Solid Tissue Normal
+patient_020_node_4,patient_020,Primary Tumor
+patient_021_node_0,patient_021,Primary Tumor
+patient_021_node_1,patient_021,Primary Tumor
+patient_021_node_2,patient_021,Solid Tissue Normal
+patient_021_node_3,patient_021,Primary Tumor
+patient_021_node_4,patient_021,Primary Tumor
+patient_022_node_0,patient_022,Primary Tumor
+patient_022_node_1,patient_022,Primary Tumor
+patient_022_node_2,patient_022,Solid Tissue Normal
+patient_022_node_3,patient_022,Solid Tissue Normal
+patient_022_node_4,patient_022,Primary Tumor
+patient_023_node_0,patient_023,Solid Tissue Normal
+patient_023_node_1,patient_023,Solid Tissue Normal
+patient_023_node_2,patient_023,Solid Tissue Normal
+patient_023_node_3,patient_023,Solid Tissue Normal
+patient_023_node_4,patient_023,Solid Tissue Normal
+patient_024_node_0,patient_024,Solid Tissue Normal
+patient_024_node_1,patient_024,Primary Tumor
+patient_024_node_2,patient_024,Primary Tumor
+patient_024_node_3,patient_024,Solid Tissue Normal
+patient_024_node_4,patient_024,Primary Tumor
+patient_025_node_0,patient_025,Solid Tissue Normal
+patient_025_node_1,patient_025,Solid Tissue Normal
+patient_025_node_2,patient_025,Solid Tissue Normal
+patient_025_node_3,patient_025,Solid Tissue Normal
+patient_025_node_4,patient_025,Solid Tissue Normal
+patient_026_node_0,patient_026,Primary Tumor
+patient_026_node_1,patient_026,Primary Tumor
+patient_026_node_2,patient_026,Primary Tumor
+patient_026_node_3,patient_026,Primary Tumor
+patient_026_node_4,patient_026,Primary Tumor
+patient_027_node_0,patient_027,Primary Tumor
+patient_027_node_1,patient_027,Solid Tissue Normal
+patient_027_node_2,patient_027,Primary Tumor
+patient_027_node_3,patient_027,Solid Tissue Normal
+patient_027_node_4,patient_027,Primary Tumor
+patient_028_node_0,patient_028,Primary Tumor
+patient_028_node_1,patient_028,Primary Tumor
+patient_028_node_2,patient_028,Primary Tumor
+patient_028_node_3,patient_028,Primary Tumor
+patient_028_node_4,patient_028,Solid Tissue Normal
+patient_029_node_0,patient_029,Primary Tumor
+patient_029_node_1,patient_029,Primary Tumor
+patient_029_node_2,patient_029,Primary Tumor
+patient_029_node_3,patient_029,Primary Tumor
+patient_029_node_4,patient_029,Solid Tissue Normal
+patient_030_node_0,patient_030,Solid Tissue Normal
+patient_030_node_1,patient_030,Solid Tissue Normal
+patient_030_node_2,patient_030,Solid Tissue Normal
+patient_030_node_3,patient_030,Solid Tissue Normal
+patient_030_node_4,patient_030,Primary Tumor
+patient_031_node_0,patient_031,Solid Tissue Normal
+patient_031_node_1,patient_031,Solid Tissue Normal
+patient_031_node_2,patient_031,Solid Tissue Normal
+patient_031_node_3,patient_031,Solid Tissue Normal
+patient_031_node_4,patient_031,Solid Tissue Normal
+patient_032_node_0,patient_032,Solid Tissue Normal
+patient_032_node_1,patient_032,Primary Tumor
+patient_032_node_2,patient_032,Solid Tissue Normal
+patient_032_node_3,patient_032,Solid Tissue Normal
+patient_032_node_4,patient_032,Solid Tissue Normal
+patient_033_node_0,patient_033,Solid Tissue Normal
+patient_033_node_1,patient_033,Primary Tumor
+patient_033_node_2,patient_033,Primary Tumor
+patient_033_node_3,patient_033,Primary Tumor
+patient_033_node_4,patient_033,Solid Tissue Normal
+patient_034_node_0,patient_034,Solid Tissue Normal
+patient_034_node_1,patient_034,Solid Tissue Normal
+patient_034_node_2,patient_034,Solid Tissue Normal
+patient_034_node_3,patient_034,Primary Tumor
+patient_034_node_4,patient_034,Solid Tissue Normal
+patient_035_node_0,patient_035,Solid Tissue Normal
+patient_035_node_1,patient_035,Solid Tissue Normal
+patient_035_node_2,patient_035,Solid Tissue Normal
+patient_035_node_3,patient_035,Solid Tissue Normal
+patient_035_node_4,patient_035,Solid Tissue Normal
+patient_036_node_0,patient_036,Solid Tissue Normal
+patient_036_node_1,patient_036,Solid Tissue Normal
+patient_036_node_2,patient_036,Solid Tissue Normal
+patient_036_node_3,patient_036,Primary Tumor
+patient_036_node_4,patient_036,Solid Tissue Normal
+patient_037_node_0,patient_037,Solid Tissue Normal
+patient_037_node_1,patient_037,Primary Tumor
+patient_037_node_2,patient_037,Solid Tissue Normal
+patient_037_node_3,patient_037,Solid Tissue Normal
+patient_037_node_4,patient_037,Solid Tissue Normal
+patient_038_node_0,patient_038,Primary Tumor
+patient_038_node_1,patient_038,Solid Tissue Normal
+patient_038_node_2,patient_038,Primary Tumor
+patient_038_node_3,patient_038,Solid Tissue Normal
+patient_038_node_4,patient_038,Primary Tumor
+patient_039_node_0,patient_039,Primary Tumor
+patient_039_node_1,patient_039,Primary Tumor
+patient_039_node_2,patient_039,Solid Tissue Normal
+patient_039_node_3,patient_039,Solid Tissue Normal
+patient_039_node_4,patient_039,Solid Tissue Normal
+patient_040_node_0,patient_040,Solid Tissue Normal
+patient_040_node_1,patient_040,Solid Tissue Normal
+patient_040_node_2,patient_040,Primary Tumor
+patient_040_node_3,patient_040,Solid Tissue Normal
+patient_040_node_4,patient_040,Solid Tissue Normal
+patient_041_node_0,patient_041,Primary Tumor
+patient_041_node_1,patient_041,Solid Tissue Normal
+patient_041_node_2,patient_041,Solid Tissue Normal
+patient_041_node_3,patient_041,Solid Tissue Normal
+patient_041_node_4,patient_041,Solid Tissue Normal
+patient_042_node_0,patient_042,Solid Tissue Normal
+patient_042_node_1,patient_042,Solid Tissue Normal
+patient_042_node_2,patient_042,Solid Tissue Normal
+patient_042_node_3,patient_042,Primary Tumor
+patient_042_node_4,patient_042,Solid Tissue Normal
+patient_043_node_0,patient_043,Solid Tissue Normal
+patient_043_node_1,patient_043,Solid Tissue Normal
+patient_043_node_2,patient_043,Solid Tissue Normal
+patient_043_node_3,patient_043,Solid Tissue Normal
+patient_043_node_4,patient_043,Solid Tissue Normal
+patient_044_node_0,patient_044,Solid Tissue Normal
+patient_044_node_1,patient_044,Solid Tissue Normal
+patient_044_node_2,patient_044,Solid Tissue Normal
+patient_044_node_3,patient_044,Primary Tumor
+patient_044_node_4,patient_044,Primary Tumor
+patient_045_node_0,patient_045,Primary Tumor
+patient_045_node_1,patient_045,Primary Tumor
+patient_045_node_2,patient_045,Solid Tissue Normal
+patient_045_node_3,patient_045,Primary Tumor
+patient_045_node_4,patient_045,Primary Tumor
+patient_046_node_0,patient_046,Solid Tissue Normal
+patient_046_node_1,patient_046,Solid Tissue Normal
+patient_046_node_2,patient_046,Solid Tissue Normal
+patient_046_node_3,patient_046,Primary Tumor
+patient_046_node_4,patient_046,Primary Tumor
+patient_047_node_0,patient_047,Solid Tissue Normal
+patient_047_node_1,patient_047,Solid Tissue Normal
+patient_047_node_2,patient_047,Primary Tumor
+patient_047_node_3,patient_047,Solid Tissue Normal
+patient_047_node_4,patient_047,Solid Tissue Normal
+patient_048_node_0,patient_048,Primary Tumor
+patient_048_node_1,patient_048,Primary Tumor
+patient_048_node_2,patient_048,Solid Tissue Normal
+patient_048_node_3,patient_048,Solid Tissue Normal
+patient_048_node_4,patient_048,Solid Tissue Normal
+patient_049_node_0,patient_049,Solid Tissue Normal
+patient_049_node_1,patient_049,Primary Tumor
+patient_049_node_2,patient_049,Primary Tumor
+patient_049_node_3,patient_049,Solid Tissue Normal
+patient_049_node_4,patient_049,Solid Tissue Normal
+patient_050_node_0,patient_050,Solid Tissue Normal
+patient_050_node_1,patient_050,Solid Tissue Normal
+patient_050_node_2,patient_050,Solid Tissue Normal
+patient_050_node_3,patient_050,Solid Tissue Normal
+patient_050_node_4,patient_050,Primary Tumor
+patient_051_node_0,patient_051,Primary Tumor
+patient_051_node_1,patient_051,Primary Tumor
+patient_051_node_2,patient_051,Primary Tumor
+patient_051_node_3,patient_051,Solid Tissue Normal
+patient_051_node_4,patient_051,Primary Tumor
+patient_052_node_0,patient_052,Primary Tumor
+patient_052_node_1,patient_052,Primary Tumor
+patient_052_node_2,patient_052,Primary Tumor
+patient_052_node_3,patient_052,Primary Tumor
+patient_052_node_4,patient_052,Solid Tissue Normal
+patient_053_node_0,patient_053,Solid Tissue Normal
+patient_053_node_1,patient_053,Solid Tissue Normal
+patient_053_node_2,patient_053,Solid Tissue Normal
+patient_053_node_3,patient_053,Solid Tissue Normal
+patient_053_node_4,patient_053,Solid Tissue Normal
+patient_054_node_0,patient_054,Solid Tissue Normal
+patient_054_node_1,patient_054,Solid Tissue Normal
+patient_054_node_2,patient_054,Solid Tissue Normal
+patient_054_node_3,patient_054,Solid Tissue Normal
+patient_054_node_4,patient_054,Solid Tissue Normal
+patient_055_node_0,patient_055,Solid Tissue Normal
+patient_055_node_1,patient_055,Solid Tissue Normal
+patient_055_node_2,patient_055,Solid Tissue Normal
+patient_055_node_3,patient_055,Solid Tissue Normal
+patient_055_node_4,patient_055,Solid Tissue Normal
+patient_056_node_0,patient_056,Solid Tissue Normal
+patient_056_node_1,patient_056,Solid Tissue Normal
+patient_056_node_2,patient_056,Solid Tissue Normal
+patient_056_node_3,patient_056,Solid Tissue Normal
+patient_056_node_4,patient_056,Solid Tissue Normal
+patient_057_node_0,patient_057,Solid Tissue Normal
+patient_057_node_1,patient_057,Solid Tissue Normal
+patient_057_node_2,patient_057,Solid Tissue Normal
+patient_057_node_3,patient_057,Solid Tissue Normal
+patient_057_node_4,patient_057,Solid Tissue Normal
+patient_058_node_0,patient_058,Solid Tissue Normal
+patient_058_node_1,patient_058,Solid Tissue Normal
+patient_058_node_2,patient_058,Solid Tissue Normal
+patient_058_node_3,patient_058,Solid Tissue Normal
+patient_058_node_4,patient_058,Solid Tissue Normal
+patient_059_node_0,patient_059,Solid Tissue Normal
+patient_059_node_1,patient_059,Solid Tissue Normal
+patient_059_node_2,patient_059,Solid Tissue Normal
+patient_059_node_3,patient_059,Solid Tissue Normal
+patient_059_node_4,patient_059,Solid Tissue Normal
+patient_060_node_0,patient_060,Primary Tumor
+patient_060_node_1,patient_060,Solid Tissue Normal
+patient_060_node_2,patient_060,Solid Tissue Normal
+patient_060_node_3,patient_060,Primary Tumor
+patient_060_node_4,patient_060,Solid Tissue Normal
+patient_061_node_0,patient_061,Solid Tissue Normal
+patient_061_node_1,patient_061,Solid Tissue Normal
+patient_061_node_2,patient_061,Solid Tissue Normal
+patient_061_node_3,patient_061,Solid Tissue Normal
+patient_061_node_4,patient_061,Primary Tumor
+patient_062_node_0,patient_062,Primary Tumor
+patient_062_node_1,patient_062,Primary Tumor
+patient_062_node_2,patient_062,Primary Tumor
+patient_062_node_3,patient_062,Primary Tumor
+patient_062_node_4,patient_062,Solid Tissue Normal
+patient_063_node_0,patient_063,Primary Tumor
+patient_063_node_1,patient_063,Solid Tissue Normal
+patient_063_node_2,patient_063,Primary Tumor
+patient_063_node_3,patient_063,Primary Tumor
+patient_063_node_4,patient_063,Primary Tumor
+patient_064_node_0,patient_064,Primary Tumor
+patient_064_node_1,patient_064,Solid Tissue Normal
+patient_064_node_2,patient_064,Solid Tissue Normal
+patient_064_node_3,patient_064,Primary Tumor
+patient_064_node_4,patient_064,Solid Tissue Normal
+patient_065_node_0,patient_065,Primary Tumor
+patient_065_node_1,patient_065,Solid Tissue Normal
+patient_065_node_2,patient_065,Solid Tissue Normal
+patient_065_node_3,patient_065,Solid Tissue Normal
+patient_065_node_4,patient_065,Primary Tumor
+patient_066_node_0,patient_066,Solid Tissue Normal
+patient_066_node_1,patient_066,Solid Tissue Normal
+patient_066_node_2,patient_066,Primary Tumor
+patient_066_node_3,patient_066,Primary Tumor
+patient_066_node_4,patient_066,Solid Tissue Normal
+patient_067_node_0,patient_067,Solid Tissue Normal
+patient_067_node_1,patient_067,Solid Tissue Normal
+patient_067_node_2,patient_067,Solid Tissue Normal
+patient_067_node_3,patient_067,Primary Tumor
+patient_067_node_4,patient_067,Primary Tumor
+patient_068_node_0,patient_068,Solid Tissue Normal
+patient_068_node_1,patient_068,Primary Tumor
+patient_068_node_2,patient_068,Solid Tissue Normal
+patient_068_node_3,patient_068,Solid Tissue Normal
+patient_068_node_4,patient_068,Primary Tumor
+patient_069_node_0,patient_069,Primary Tumor
+patient_069_node_1,patient_069,Primary Tumor
+patient_069_node_2,patient_069,Primary Tumor
+patient_069_node_3,patient_069,Primary Tumor
+patient_069_node_4,patient_069,Solid Tissue Normal
+patient_070_node_0,patient_070,Solid Tissue Normal
+patient_070_node_1,patient_070,Solid Tissue Normal
+patient_070_node_2,patient_070,Solid Tissue Normal
+patient_070_node_3,patient_070,Primary Tumor
+patient_070_node_4,patient_070,Solid Tissue Normal
+patient_071_node_0,patient_071,Solid Tissue Normal
+patient_071_node_1,patient_071,Solid Tissue Normal
+patient_071_node_2,patient_071,Solid Tissue Normal
+patient_071_node_3,patient_071,Solid Tissue Normal
+patient_071_node_4,patient_071,Solid Tissue Normal
+patient_072_node_0,patient_072,Primary Tumor
+patient_072_node_1,patient_072,Primary Tumor
+patient_072_node_2,patient_072,Primary Tumor
+patient_072_node_3,patient_072,Solid Tissue Normal
+patient_072_node_4,patient_072,Primary Tumor
+patient_073_node_0,patient_073,Solid Tissue Normal
+patient_073_node_1,patient_073,Primary Tumor
+patient_073_node_2,patient_073,Solid Tissue Normal
+patient_073_node_3,patient_073,Primary Tumor
+patient_073_node_4,patient_073,Solid Tissue Normal
+patient_074_node_0,patient_074,Solid Tissue Normal
+patient_074_node_1,patient_074,Solid Tissue Normal
+patient_074_node_2,patient_074,Solid Tissue Normal
+patient_074_node_3,patient_074,Solid Tissue Normal
+patient_074_node_4,patient_074,Primary Tumor
+patient_075_node_0,patient_075,Solid Tissue Normal
+patient_075_node_1,patient_075,Solid Tissue Normal
+patient_075_node_2,patient_075,Solid Tissue Normal
+patient_075_node_3,patient_075,Solid Tissue Normal
+patient_075_node_4,patient_075,Primary Tumor
+patient_076_node_0,patient_076,Solid Tissue Normal
+patient_076_node_1,patient_076,Primary Tumor
+patient_076_node_2,patient_076,Primary Tumor
+patient_076_node_3,patient_076,Primary Tumor
+patient_076_node_4,patient_076,Primary Tumor
+patient_077_node_0,patient_077,Solid Tissue Normal
+patient_077_node_1,patient_077,Solid Tissue Normal
+patient_077_node_2,patient_077,Primary Tumor
+patient_077_node_3,patient_077,Solid Tissue Normal
+patient_077_node_4,patient_077,Primary Tumor
+patient_078_node_0,patient_078,Solid Tissue Normal
+patient_078_node_1,patient_078,Solid Tissue Normal
+patient_078_node_2,patient_078,Solid Tissue Normal
+patient_078_node_3,patient_078,Solid Tissue Normal
+patient_078_node_4,patient_078,Solid Tissue Normal
+patient_079_node_0,patient_079,Solid Tissue Normal
+patient_079_node_1,patient_079,Solid Tissue Normal
+patient_079_node_2,patient_079,Solid Tissue Normal
+patient_079_node_3,patient_079,Solid Tissue Normal
+patient_079_node_4,patient_079,Solid Tissue Normal
+patient_080_node_0,patient_080,Primary Tumor
+patient_080_node_1,patient_080,Primary Tumor
+patient_080_node_2,patient_080,Primary Tumor
+patient_080_node_3,patient_080,Primary Tumor
+patient_080_node_4,patient_080,Primary Tumor
+patient_081_node_0,patient_081,Solid Tissue Normal
+patient_081_node_1,patient_081,Primary Tumor
+patient_081_node_2,patient_081,Primary Tumor
+patient_081_node_3,patient_081,Solid Tissue Normal
+patient_081_node_4,patient_081,Primary Tumor
+patient_082_node_0,patient_082,Solid Tissue Normal
+patient_082_node_1,patient_082,Solid Tissue Normal
+patient_082_node_2,patient_082,Solid Tissue Normal
+patient_082_node_3,patient_082,Solid Tissue Normal
+patient_082_node_4,patient_082,Solid Tissue Normal
+patient_083_node_0,patient_083,Solid Tissue Normal
+patient_083_node_1,patient_083,Solid Tissue Normal
+patient_083_node_2,patient_083,Solid Tissue Normal
+patient_083_node_3,patient_083,Solid Tissue Normal
+patient_083_node_4,patient_083,Solid Tissue Normal
+patient_084_node_0,patient_084,Solid Tissue Normal
+patient_084_node_1,patient_084,Solid Tissue Normal
+patient_084_node_2,patient_084,Primary Tumor
+patient_084_node_3,patient_084,Primary Tumor
+patient_084_node_4,patient_084,Solid Tissue Normal
+patient_085_node_0,patient_085,Solid Tissue Normal
+patient_085_node_1,patient_085,Solid Tissue Normal
+patient_085_node_2,patient_085,Solid Tissue Normal
+patient_085_node_3,patient_085,Solid Tissue Normal
+patient_085_node_4,patient_085,Solid Tissue Normal
+patient_086_node_0,patient_086,Primary Tumor
+patient_086_node_1,patient_086,Solid Tissue Normal
+patient_086_node_2,patient_086,Solid Tissue Normal
+patient_086_node_3,patient_086,Solid Tissue Normal
+patient_086_node_4,patient_086,Primary Tumor
+patient_087_node_0,patient_087,Primary Tumor
+patient_087_node_1,patient_087,Primary Tumor
+patient_087_node_2,patient_087,Solid Tissue Normal
+patient_087_node_3,patient_087,Solid Tissue Normal
+patient_087_node_4,patient_087,Solid Tissue Normal
+patient_088_node_0,patient_088,Solid Tissue Normal
+patient_088_node_1,patient_088,Primary Tumor
+patient_088_node_2,patient_088,Solid Tissue Normal
+patient_088_node_3,patient_088,Solid Tissue Normal
+patient_088_node_4,patient_088,Primary Tumor
+patient_089_node_0,patient_089,Solid Tissue Normal
+patient_089_node_1,patient_089,Solid Tissue Normal
+patient_089_node_2,patient_089,Solid Tissue Normal
+patient_089_node_3,patient_089,Primary Tumor
+patient_089_node_4,patient_089,Solid Tissue Normal
+patient_090_node_0,patient_090,Solid Tissue Normal
+patient_090_node_1,patient_090,Solid Tissue Normal
+patient_090_node_2,patient_090,Solid Tissue Normal
+patient_090_node_3,patient_090,Solid Tissue Normal
+patient_090_node_4,patient_090,Solid Tissue Normal
+patient_091_node_0,patient_091,Solid Tissue Normal
+patient_091_node_1,patient_091,Solid Tissue Normal
+patient_091_node_2,patient_091,Primary Tumor
+patient_091_node_3,patient_091,Primary Tumor
+patient_091_node_4,patient_091,Primary Tumor
+patient_092_node_0,patient_092,Primary Tumor
+patient_092_node_1,patient_092,Primary Tumor
+patient_092_node_2,patient_092,Solid Tissue Normal
+patient_092_node_3,patient_092,Primary Tumor
+patient_092_node_4,patient_092,Primary Tumor
+patient_093_node_0,patient_093,Solid Tissue Normal
+patient_093_node_1,patient_093,Solid Tissue Normal
+patient_093_node_2,patient_093,Solid Tissue Normal
+patient_093_node_3,patient_093,Solid Tissue Normal
+patient_093_node_4,patient_093,Primary Tumor
+patient_094_node_0,patient_094,Primary Tumor
+patient_094_node_1,patient_094,Primary Tumor
+patient_094_node_2,patient_094,Primary Tumor
+patient_094_node_3,patient_094,Solid Tissue Normal
+patient_094_node_4,patient_094,Primary Tumor
+patient_095_node_0,patient_095,Primary Tumor
+patient_095_node_1,patient_095,Solid Tissue Normal
+patient_095_node_2,patient_095,Solid Tissue Normal
+patient_095_node_3,patient_095,Solid Tissue Normal
+patient_095_node_4,patient_095,Solid Tissue Normal
+patient_096_node_0,patient_096,Primary Tumor
+patient_096_node_1,patient_096,Solid Tissue Normal
+patient_096_node_2,patient_096,Primary Tumor
+patient_096_node_3,patient_096,Primary Tumor
+patient_096_node_4,patient_096,Primary Tumor
+patient_097_node_0,patient_097,Primary Tumor
+patient_097_node_1,patient_097,Primary Tumor
+patient_097_node_2,patient_097,Solid Tissue Normal
+patient_097_node_3,patient_097,Primary Tumor
+patient_097_node_4,patient_097,Primary Tumor
+patient_098_node_0,patient_098,Solid Tissue Normal
+patient_098_node_1,patient_098,Solid Tissue Normal
+patient_098_node_2,patient_098,Solid Tissue Normal
+patient_098_node_3,patient_098,Solid Tissue Normal
+patient_098_node_4,patient_098,Solid Tissue Normal
+patient_099_node_0,patient_099,Solid Tissue Normal
+patient_099_node_1,patient_099,Solid Tissue Normal
+patient_099_node_2,patient_099,Solid Tissue Normal
+patient_099_node_3,patient_099,Solid Tissue Normal
+patient_099_node_4,patient_099,Primary Tumor

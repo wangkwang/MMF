@@ -1,0 +1,19 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+.DS_Store
+.dsh-acl-recovery/
+
+# experiment outputs
+results/
+visualize/
+logs/
+
+# weights / features / caches
+*.pt
+*.pth
+*.bin
+*.pkl
+*.npz
+*.h5
